@@ -82,18 +82,6 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                   ISOMETRIC COMMIT CALENDAR                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Isometric Commit Calendar</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/barbouchyoussef/barbouchyoussef/main/github-metrics.svg" alt="GitHub Metrics - Isometric Calendar" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB ANALYTICS                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
